@@ -1,2 +1,1 @@
-*.cdn.ubi.com
 static.cdn.ubi.com.
