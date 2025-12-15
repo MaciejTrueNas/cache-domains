@@ -1,3 +1,4 @@
 *.cdn.ubi.com
+cdn.ubi.com
 uplaypc-s-ubisoft.cdn.ubi.com
 cdn-lb.ubi.com
